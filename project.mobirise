@@ -340,7 +340,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84028.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84030.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "kulony.html",
@@ -410,7 +410,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84029.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84031.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "nabory.html",
