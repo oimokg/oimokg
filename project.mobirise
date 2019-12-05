@@ -340,7 +340,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84030.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x8400.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "kulony.html",
@@ -410,7 +410,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84031.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x8401.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "nabory.html",
@@ -531,8 +531,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "headerAlign": "left",
           "header": "НАШИ УСЛУГИ",
