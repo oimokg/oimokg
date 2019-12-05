@@ -18,16 +18,19 @@
 
 
 
+
+
 #content5-10 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fac51c;
   font-family: 'Lora', serif;
+  font-size: 19px;
 }
 #content5-10 .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fac51c;
   font-family: 'Lora', serif;
-  font-size: 18px;
+  font-size: 21px;
 }
 #content5-10 .mbr-article {
   color: #fff;
@@ -37,11 +40,31 @@
   font-family: 'Lora', serif;
   font-size: 22px;
 }
+#content5-10 .mbr-header .mbr-header__text I {
+  font-size: 18px;
+}
 #image1-w SMALL {
   text-align: center;
   font-family: 'Lora', serif;
   font-size: 21px;
-  color: #000000;
+  color: #ffffff;
+}
+#content5-19 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #a38f84;
+  font-family: 'Lora', serif;
+}
+#content5-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-article {
+  color: #fff;
+}
+#content5-19 .mbr-article P {
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 22px;
 }
 #features1-5 .mbr-section-title .mbr-header__text {
   color: #fac51c;
@@ -49,11 +72,11 @@
   font-family: 'Lora', serif;
 }
 #features1-5 .mbr-section__col .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Lora', serif;
 }
 #features1-6 .mbr-section__col .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Lora', serif;
 }
 #features1-g .mbr-section__col .mbr-header__text {
@@ -77,7 +100,7 @@
   font-size: 25px;
 }
 #msg-box4-r .mbr-header__text {
-  color: #fac51c;
+  color: #ffffff;
   font-family: 'Lora', serif;
 }
 #msg-box4-r .mbr-header__subtext {

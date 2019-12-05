@@ -15,7 +15,7 @@
         "#eaeff1"
       ]
     },
-    "uniqCompNum": 42,
+    "uniqCompNum": 46,
     "siteFonts": [],
     "noImageResize": true,
     "robotsSwitcher": true,
@@ -45,14 +45,15 @@
               "text-align": "center",
               "color": "#fac51c",
               "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "19px"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
               "color": "#fac51c",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
+              "font-size": "21px"
             },
             ".mbr-article": {
               "color": "#fff"
@@ -62,6 +63,9 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "22px"
+            },
+            ".mbr-header .mbr-header__text I": {
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -88,7 +92,7 @@
           },
           "title": "",
           "text": "Ювелирная компания \"Оймо\" предлагает Вам неповторимые серебряные изделия, созданные руками потомственной мастерицы. Найдя свое выражение в эксклюзивных украшениях Вы всегда будете в гармонии с собой, а сакральная сила серебра, камней и этнических узоров зададут новый тон и направление в вашем стиле и биоритме.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(250, 197, 28);\"></span>Продолжим знакомство?</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"index.html#content5-10\" data-toolbar=\"-mbrBtnMove\"></a> ",
           "_tags": [
             "Theme"
           ],
@@ -98,9 +102,9 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": true,
-            "bgColor": "#9f9a93"
+            "bgColor": "#000000"
           },
           "media": {
             "image": {
@@ -129,9 +133,64 @@
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "21px",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#a38f84",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "ДОБРО ПОЖАЛОВАТЬ!",
+          "text": "<p>Ювелирная компания \"ОЙМО\" предлагает Вам неповторимые серебряные изделия, созданные руками потомственной мастерицы. Найдя свое выражение в эксклюзивных украшениях Вы всегда будете в гармонии с собой, а сакральная сила серебра, камней и этнических узоров зададут новый тон и направление в вашем стиле и биоритме.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-19"
         },
         {
           "_styles": {},
@@ -171,7 +230,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section__col .mbr-header__text": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -191,7 +250,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/img-5140-.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9f9a93",
+            "bgColor": "#a38f84",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/n5aggrkbr_c?rel=0&amp;showinfo=0&autoplay=0&loop=0",
@@ -281,7 +340,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84028.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "kulony.html",
@@ -316,7 +375,7 @@
           "_name": "features1",
           "_styles": {
             ".mbr-section__col .mbr-header__text": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
@@ -336,7 +395,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9f9a93",
+            "bgColor": "#a38f84",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -351,7 +410,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84029.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "nabory.html",
@@ -481,7 +540,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lgp-0018-170-600x715.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/img-2396.jpeg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -689,10 +748,10 @@
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/111.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5186-.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#9f9a93",
+            "bgColor": "#faaf40",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -730,7 +789,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#fac51c",
+              "color": "#ffffff",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
@@ -846,8 +905,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html#features1-5\">ИЗДЕЛИЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-g\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-r\">ПОДАРОЧНЫЙ СЕРТИФИКАТ</a></li>    <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#instagram-feed-block-0\">ГАЛЕРЕЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html#contacts2-7\">АДРЕС И КОНТАКТЫ</a></li>          ",
-          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/+996772178055\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+996772178055\" data-toolbar=\"-mbrBtnMove\">Позвонить</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">Написать<br></a></li> "
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-19\">ПРИВЕТ!</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html#features1-5\">ИЗДЕЛИЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-g\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#instagram-feed-block-0\">ГАЛЕРЕЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-r\">ПОДАРОЧНЫЙ СЕРТИФИКАТ</a></li>                ",
+          "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/+996772178055\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+996772178055\" data-toolbar=\"-mbrBtnMove\">Позвонить</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">Написать<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-7\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a></li> "
         },
         {
           "_inherit": "msg-box1",
@@ -869,7 +928,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fac51c",
+            "bgColor": "#faaf40",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
