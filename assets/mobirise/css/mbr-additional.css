@@ -20,6 +20,8 @@
 
 
 
+
+
 #content5-10 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fac51c;
@@ -93,12 +95,6 @@
   color: #fac51c;
   font-family: 'Lora', serif;
 }
-#instagram-feed-block-0 .inst__title {
-  text-align: center;
-  color: #fac51c;
-  font-family: 'Lora', serif;
-  font-size: 25px;
-}
 #msg-box4-r .mbr-header__text {
   color: #ffffff;
   font-family: 'Lora', serif;
@@ -151,6 +147,24 @@
 }
 #msg-box2-13 .mbr-article {
   color: #252525;
+}
+#instagram-feed-block-0 .inst__title {
+  text-align: center;
+  color: #fac51c;
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+#msg-box1-1b .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-1b .mbr-article {
+  color: #e40101;
+  text-align: right;
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+#msg-box1-1b .btn {
+  font-family: 'Lora', serif;
 }
 #form1-6 .mbr-header__text {
   color: #fac51c;

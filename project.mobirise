@@ -12,10 +12,11 @@
       "additionalSetColors": [
         "#9f9a93",
         "#946259",
-        "#eaeff1"
+        "#eaeff1",
+        "#e40101"
       ]
     },
-    "uniqCompNum": 46,
+    "uniqCompNum": 49,
     "siteFonts": [],
     "noImageResize": true,
     "robotsSwitcher": true,
@@ -340,7 +341,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x8400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84020.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "kulony.html",
@@ -410,7 +411,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x8401.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84021.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "nabory.html",
@@ -695,48 +696,6 @@
           }
         },
         {
-          "_params": {
-            "token": "1944464806.727bfe1.32be817b4cf14705b417eb9ca6e6c9ac",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "5",
-            "rows": "3",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": "13",
-            "fullWidth": true,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2576.jpeg",
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0"
-          },
-          "title": "ГАЛЕРЕЯ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-warning\" href=\"#\" data-max-id=\"2171070983482351294_1944464806\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"mbri-more-horizontal mbr-iconfont mbr-iconfont-btn\"></span>Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-0",
-          "_styles": {
-            ".inst__title": {
-              "text-align": "center",
-              "color": "#fac51c",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "25px"
-            }
-          }
-        },
-        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -905,7 +864,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-warning\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-19\">ПРИВЕТ!</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html#features1-5\">ИЗДЕЛИЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-g\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#instagram-feed-block-0\">ГАЛЕРЕЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-r\">ПОДАРОЧНЫЙ СЕРТИФИКАТ</a></li>                ",
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-19\">ПРИВЕТ!</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"main.html#features1-5\">ИЗДЕЛИЯ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-g\">УСЛУГИ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-r\">ПОДАРОЧНЫЙ СЕРТИФИКАТ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#instagram-feed-block-0\">ГАЛЕРЕЯ</a></li>                 ",
           "buttons": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://wa.me/+996772178055\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"tel:+996772178055\" data-toolbar=\"-mbrBtnMove\">Позвонить</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">Написать<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-7\" data-toolbar=\"-mbrBtnMove\">Посмотреть</a></li> "
         },
         {
@@ -945,6 +904,93 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-13"
+        },
+        {
+          "_params": {
+            "token": "1944464806.727bfe1.32be817b4cf14705b417eb9ca6e6c9ac",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "5",
+            "rows": "3",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": "13",
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2576.jpeg",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0"
+          },
+          "title": "ГАЛЕРЕЯ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-warning\" href=\"#\" data-max-id=\"2171070983482351294_1944464806\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\"><span class=\"mbri-more-horizontal mbr-iconfont mbr-iconfont-btn\"></span>Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-0",
+          "_styles": {
+            ".inst__title": {
+              "text-align": "center",
+              "color": "#fac51c",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#e40101",
+              "text-align": "right",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "...если не отображается галерея можете перейти на наш инстаграм здесь:",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://instagram.com/oimokg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">@OIMOKG</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-1b"
         },
         {
           "_params": {
