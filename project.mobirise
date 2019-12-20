@@ -16,7 +16,7 @@
         "#e40101"
       ]
     },
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "siteFonts": [],
     "noImageResize": true,
     "robotsSwitcher": true,
@@ -341,7 +341,7 @@
           "media5": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84022.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84026.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "kulony.html",
@@ -411,7 +411,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/-600x84023.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84027.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "nabory.html",
